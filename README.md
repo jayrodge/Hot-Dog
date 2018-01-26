@@ -1,5 +1,5 @@
 # Hot-Dog
-A Classifier for recognising Hot Dogs.
+A Classifier for recognising Hot Dogs using fastai library (based on PyTorch) and RestNet50 architecture.
 
 
 ## Dataset 
