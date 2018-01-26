@@ -1,2 +1,9 @@
 # Hot-Dog
-Creating a Classifier for recognising Hot Dogs
+A Classifier for recognising Hot Dogs.
+
+
+## Dataset 
+Hot Dog - Not Hot Dog (Kaggle)
+https://www.kaggle.com/dansbecker/hot-dog-not-hot-dog 
+
+
